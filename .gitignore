@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# dotenv environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+
+# Lock files
+package-lock.json
+yarn.lock
